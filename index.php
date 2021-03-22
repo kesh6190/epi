@@ -10,5 +10,6 @@
 	
 	<body>
 		<h1>This is the home test page</h1>
+		<h2>This is a first change to the homepage</h2>
 	<body>
 </html>
